@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+    height: 4rem;
+    box-shadow: 1px 2px 5px gray;
+
+}
+
+#arrow-icon {
+    font-size: 1.5rem;
+    margin-left: 1rem;
+    cursor: pointer;
+}
+
+#search-input {
+    height: 2.5rem;
+    width: 30vw;
+    outline: none;
+    border: 1px solid lightseagreen;
+}
+
+::placeholder {
+    padding: 5px;
+    color: lightseagreen;
+    font-size: 1rem;
+}
+
+#all-book {
+    display: flex;
+
+}

@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#Want-To-Read-Books{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 6rem;
+   
+}
+#Currenlty-Read-Books{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 6rem;
+}
+.heading1{
+    margin:1rem;
+    font-size: 2rem;
+}
+.heading2{
+    margin:1rem;
+    font-size: 2rem;
+    margin-top: 6rem;
+}
+#read{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 6rem;
+}
+#heading3{
+    margin:1rem;
+    font-size: 2rem;
+    margin-top: 6rem;
+}
